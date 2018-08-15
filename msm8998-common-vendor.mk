@@ -1173,15 +1173,12 @@ PRODUCT_PACKAGES += \
     libsdm-disp-vndapis \
     libthermalclient \
     libtime_genoff \
-    CNEService \
-    com.qualcomm.location \
     dpmserviceapp \
     qcrilmsgtunnel \
     QtiTelephonyService \
     WfdService \
     datastatusnotification \
     embms \
-    ims \
     imssettings \
     TimeService \
     WfdCommon \
