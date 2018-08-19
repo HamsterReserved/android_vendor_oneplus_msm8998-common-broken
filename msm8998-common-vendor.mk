@@ -502,8 +502,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/msm8998-common/proprietary/lib/libhbtpjni.so:system/lib/libhbtpjni.so \
     vendor/oneplus/msm8998-common/proprietary/vendor/lib/libimscamera_jni.so:$(TARGET_COPY_OUT_VENDOR)/lib/libimscamera_jni.so \
     vendor/oneplus/msm8998-common/proprietary/vendor/lib/libimsmedia_jni.so:$(TARGET_COPY_OUT_VENDOR)/lib/libimsmedia_jni.so \
-    vendor/oneplus/msm8998-common/proprietary/lib/libldacBT_abr.so:system/lib/libldacBT_abr.so \
-    vendor/oneplus/msm8998-common/proprietary/lib/libldacBT_enc.so:system/lib/libldacBT_enc.so \
     vendor/oneplus/msm8998-common/proprietary/lib/liblocationservice_jni.so:system/lib/liblocationservice_jni.so \
     vendor/oneplus/msm8998-common/proprietary/lib/libmmosal.so:system/lib/libmmosal.so \
     vendor/oneplus/msm8998-common/proprietary/vendor/lib/libmmparser.so:$(TARGET_COPY_OUT_VENDOR)/lib/libmmparser.so \
@@ -570,8 +568,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/msm8998-common/proprietary/lib64/libhbtpjni.so:system/lib64/libhbtpjni.so \
     vendor/oneplus/msm8998-common/proprietary/vendor/lib64/libimscamera_jni.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libimscamera_jni.so \
     vendor/oneplus/msm8998-common/proprietary/vendor/lib64/libimsmedia_jni.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libimsmedia_jni.so \
-    vendor/oneplus/msm8998-common/proprietary/lib64/libldacBT_abr.so:system/lib64/libldacBT_abr.so \
-    vendor/oneplus/msm8998-common/proprietary/lib64/libldacBT_enc.so:system/lib64/libldacBT_enc.so \
     vendor/oneplus/msm8998-common/proprietary/lib64/liblocationservice_jni.so:system/lib64/liblocationservice_jni.so \
     vendor/oneplus/msm8998-common/proprietary/lib64/libmmosal.so:system/lib64/libmmosal.so \
     vendor/oneplus/msm8998-common/proprietary/vendor/lib64/libmmparser.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libmmparser.so \
